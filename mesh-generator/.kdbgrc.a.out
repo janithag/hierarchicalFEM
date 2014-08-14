@@ -1,0 +1,46 @@
+[Breakpoint 0]
+Enabled=true
+File=res.cpp
+Line=341
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=elem_type.cpp
+Line=304
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=elem_type.cpp
+Line=308
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=elem_type.cpp
+Line=306
+Temporary=false
+
+[Breakpoint 4]
+Enabled=true
+File=elem_type.cpp
+Line=350
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
+
+[Watches]
+Expr0=index[i][j]
+Expr1=index

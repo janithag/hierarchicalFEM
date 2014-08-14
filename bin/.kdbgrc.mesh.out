@@ -1,0 +1,46 @@
+[Breakpoint 0]
+Enabled=true
+File=elem_type.cpp
+Line=554
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=assembler.cpp
+Line=260
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=assembler.cpp
+Line=259
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=assembler.cpp
+Line=262
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
+
+[Watches]
+Expr0=det
+Expr1=Jac
+Expr2=det1
+Expr3=det2
+Expr4=det3
+Expr5=node[i]
+Expr6=indexSol
+Expr7=phi[i]
